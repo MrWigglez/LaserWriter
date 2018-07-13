@@ -1,0 +1,7 @@
+fullRotation = 512
+paperHeight = 50
+paperWidth = 50
+lastPositionHoriz = 0
+lastPositionVert = 0
+paperPositionHoriz = 0
+paperPositionVert = 0
